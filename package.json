@@ -1,0 +1,24 @@
+{
+  "name": "phaser-webpack-bootstrap",
+  "version": "1.0.0",
+  "description": "bostrap for phaser game development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiminibob/phaser-webpack-bootstrap.git"
+  },
+  "keywords": [
+    "phaser",
+    "bootstrap",
+    "webpack"
+  ],
+  "author": "Paul Garrett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiminibob/phaser-webpack-bootstrap/issues"
+  },
+  "homepage": "https://github.com/jiminibob/phaser-webpack-bootstrap#readme"
+}
